@@ -1,6 +1,7 @@
 {
-  "name": "angular-quickstart",
+  "name": "angular-tour-of-heroes",
   "version": "1.0.0",
+  "author": "Renato Biancalana da Silva <renato.biancalana.silva@gmail.com>",
   "scripts": {
     "start": "tsc && concurrently \"tsc -w\" \"lite-server\" ",
     "lite": "lite-server",
